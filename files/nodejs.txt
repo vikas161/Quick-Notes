@@ -1,0 +1,1 @@
+node js is a run time environment . it is a package in npm . it is used to connect the javascript code into the v8 engine of chrome and perform the task
